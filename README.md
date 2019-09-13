@@ -5,3 +5,5 @@
 3. Train a transfer learning based classifier to classify images according to benign/malignant given in the Excel file.
 4. Train a transfer learning based Semantic segmentation according to the annotation in _anno.BMP file.
 5. Upload the assignment on your Github in form of a IPYNB showing results on a few test set images.
+
+6. I created 2 notebook one for classify and another for Segmentation
